@@ -1,0 +1,18 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+Before loading the script.
+WindowsError: [Error 267] The directory name is invalid: u'D:\\git\\nationalpork\\National Park Girls\\game\\00camera_statements.rpy\\*.*'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "D:\renpy-6.99.13-sdk\renpy\bootstrap.py", line 306, in bootstrap
+    renpy.main.main()
+  File "D:\renpy-6.99.13-sdk\renpy\main.py", line 276, in main
+    for fn in os.listdir(dir):
+WindowsError: [Error 267] The directory name is invalid: u'D:\\git\\nationalpork\\National Park Girls\\game\\00camera_statements.rpy\\*.*'
+
+Windows-8-6.2.9200
+Ren'Py 7.0.0.196
+ 
+Sat Sep 29 14:04:43 2018

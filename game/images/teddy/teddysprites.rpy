@@ -1,0 +1,6 @@
+image teddy = "images/teddy/teddy_base.png"
+image page01 = "images/teddy/page01.png"
+image page02 = "images/teddy/page02.png"
+image page03 = "images/teddy/page03.png"
+image page04 = "images/teddy/page04.png"
+image page05 = "images/teddy/page05.png"
